@@ -8,7 +8,7 @@
 🚀 Enthusiastic and skilled Computer Science student with a strong foundation in backend development and a passion for tackling challenging problems. Proven track record as a Technical Content Engineering Intern and Backend Developer (R&D). Excited to contribute to a dynamic team and enhance my skills in a collaborative environment.
 
 ## Technical Skills
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,django,flask,css,html,fastapi,git,mysql,postman,matlab,sklearn,vscode,figma&theme=light)](https://skillicons.dev)
 
 ## Experience
 

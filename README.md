@@ -1,5 +1,5 @@
 # Astuti Mishra
-
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/astuti-m-43199320a/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-brightgreen?style=flat-square&logo=github)](https://github.com/astutimishra)
 [![Resume](https://img.shields.io/badge/Resume-View%20PDF-red?style=flat-square&logo=adobe-acrobat-reader)](link_to_your_resume.pdf)

@@ -8,28 +8,15 @@
 
 🚀 Enthusiastic and skilled Computer Science student with a strong foundation in backend development and a passion for tackling challenging problems. Proven track record as a Technical Content Engineering Intern and Backend Developer (R&D). Excited to contribute to a dynamic team and enhance my skills in a collaborative environment.
 
-## Education
-
-**Bachelor of Technology in Computer Science**  
-*Pranveer Singh Institute Of Technology, Kanpur, Uttar Pradesh*  
-*Dec. 2020 – June 2024*  
-CGPA: 8.06
-
-**AISSCE 12th**  
-*Rani Laxmi Bai Memorial School, Lucknow, Uttar Pradesh*  
-*May 2018 – June 2019*  
-Percentage: 92.4%
-
 ## Technical Skills
 
-- Backend Development: FastApi, Django
-- Programming Languages: Python
+- Backend Development: FastApi, Django, Machine learning, NLP, NLTK
+- Programming Languages: Python, CPP
 - Database Management: MySQL
 - Web Technologies: GraphQL, RestAPI
 - Data Structures, OOPS
 - Machine Learning: Familiar with concepts
 - Version Control: Git
-- Operating Systems: Proficient
 
 ## Experience
 
